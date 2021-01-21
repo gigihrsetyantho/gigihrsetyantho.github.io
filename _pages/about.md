@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gigih Rahmandhani Setyantho"
+title: "Gigih Rahmandhani Se tyantho"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
