@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gigih"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Gigih Rahmandhani Setyantho"
 description              : &description "personal description"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
