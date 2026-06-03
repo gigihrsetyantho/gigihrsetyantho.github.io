@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gigih R. Setyantho (he/him)"
+title                    : "Gigih R. Setyantho"
 title_separator          : "-"
 name                     : &name "Gigih Rahmandhani Setyantho"
-description              : &description "Ph.D. student in Civil, Environmental, and Architectural Engineering at Korea University."
+description              : &description "Ph.D. candidate in Civil, Environmental, and Architectural Engineering at Korea University."
 url                      : https://gigihrsetyantho.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gigihrsetyantho/gigihrsetyantho.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gigih R. Setyantho"
+  name             : "Gigih (he/him)"
   avatar           : "bio-photo-2.jpg"
-  bio              : "Ph.D. student at Korea University working on urban climate modeling, building energy performance, and physics–AI hybrid modeling for sustainable and climate-resilient cities."
+  bio              : "Ph.D. candidate in Civil, Environmental, and Architectural Engineering at Korea University."
   location         : "South Korea"
   employer         :
   pubmed           : 
