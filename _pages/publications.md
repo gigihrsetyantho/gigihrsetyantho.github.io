@@ -27,9 +27,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 1. **Setyantho, G. R.**, Utami, S. S., & Susilo Hadi. (2017). *Exploring biodiversity in Alas Purwo National Park, East Java through soundscape ecology.* Regional Conference on Acoustics and Vibration (RECAV 2017), Bali, Indonesia. *(Oral Presentation)* [Link](https://doi.org/10.1088/1742-6596/1075/1/012003)
 
 ## Domestic Publications
-**Setyantho, G. R.**, Yim, S. H. L., & Heo, Y.* (2023). Development of a wind speed spatial interpolator for urban wind map. KIAEBS Fall Conference 2023, Busan, Republic of Korea. *(Oral Presentation)*
-Chang, S., Park, H., & **Setyantho, G. R.*** (2020). Performance optimization of a simplified passive design space in diversified climatic contexts. *KIEAE Journal*, 20(6), 31–40.
-**Setyantho, G. R.**, & Chang, S.* (2020). Identification of primary factors influencing energy consumption patterns of commercial and residential buildings. *KIEAE Journal*, 20(6), 21–30.
+3. **Setyantho, G. R.**, Yim, S. H. L., & Heo, Y.* (2023). Development of a wind speed spatial interpolator for urban wind map. KIAEBS Fall Conference 2023, Busan, Republic of Korea. *(Oral Presentation)*
+2. Chang, S., Park, H., & **Setyantho, G. R.*** (2020). Performance optimization of a simplified passive design space in diversified climatic contexts. *KIEAE Journal*, 20(6), 31–40.
+1. **Setyantho, G. R.**, & Chang, S.* (2020). Identification of primary factors influencing energy consumption patterns of commercial and residential buildings. *KIEAE Journal*, 20(6), 21–30.
 
 ## Book Chapter
 Utami, S. S. (2021). *Menuju Bangunan Zero Energy di Indonesia*. UGM Press. *(Book chapter, Indonesian language).*
