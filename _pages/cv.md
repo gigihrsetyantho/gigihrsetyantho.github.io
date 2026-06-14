@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A 2-page resume is available to download [here](https://www.dropbox.com/scl/fi/slf56mqn66jm3zkthedtd/Resume_Gigih_20260427.pdf?rlkey=m50sjwhpfwf7od6kbgfn70niu&st=452byytf&dl=0).
+For a summary of my education, research experience, publications, and professional activities, please download my 2-page resume [here](https://www.dropbox.com/scl/fi/slf56mqn66jm3zkthedtd/Resume_Gigih_20260427.pdf?rlkey=m50sjwhpfwf7od6kbgfn70niu&st=452byytf&dl=0).
 
 ## Education
 * PhD in **Civil, Environmental, and Architectural Engineering**, **Korea University (KU)**, Republic of Korea _(Expected until August 2026)_
