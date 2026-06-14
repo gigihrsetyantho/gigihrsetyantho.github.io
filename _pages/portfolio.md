@@ -11,7 +11,6 @@ author_profile: true
 
 My research focuses on understanding and predicting interactions between urban environments, climate, and energy systems. Through a combination of physics-based simulation, urban environmental modeling, and data-driven approaches, I aim to develop practical tools that support climate-sensitive urban planning and sustainable city development. My work spans urban climate modeling, urban wind environment analysis, building energy performance, and physics–AI hybrid modeling, with applications in climate adaptation, urban resilience, and evidence-based decision-making for cities.
 
----
 
 ### Physics–AI Hybrid Modeling
 
