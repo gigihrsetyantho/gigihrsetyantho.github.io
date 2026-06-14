@@ -21,7 +21,6 @@ A major focus of my current work is the development of physics–AI hybrid frame
 
 * Closing prediction gaps in urban canopy models through handling parameter and model-form uncertainties (*Sustainable Cities and Society*, 2026)
 
----
   
 ### Urban Climate Modeling
 
@@ -32,7 +31,6 @@ Urban climate models play an important role in understanding the interactions be
 * Evaluation of multi-layer urban canopy model (MLUCM) for urban microclimate predictions at different urban contexts (*Urban Climate*, 2024)
 * Toward a new paradigm for urban climate modelling: Challenges and opportunities (*Journal of Building Performance Simulation*, 2025)
 
----
 
 ### Urban Wind Environment
 
@@ -43,7 +41,6 @@ Urban wind conditions strongly influence pedestrian comfort, pollutant dispersio
 * Vertical wind speed variability in high-density urban areas: Spatial determinants and implications for climate-responsive urban planning (*Under Review*)
 * Development of a wind speed spatial interpolator for urban wind map (*KIAEBS Conference*, 2023)
 
----
 
 ### Building Energy Performance
 
