@@ -5,19 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=r0eIJnsAAAAJ&hl=en).
+For a complete list of publications and citation records, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=r0eIJnsAAAAJ&hl=en).
 
-## International Journal Articles
+## SCIE-indexed Journal Articles
 (\*denotes corresponding author)
 
-### Published
+#### Published
 5. **Setyantho, G. R.**, & Heo, Y.* (2026). Closing prediction gaps in urban canopy models through handling parameter and model-form uncertainties. *Sustainable Cities and Society*, 107404. [Link](https://doi.org/10.1016/j.scs.2026.107404)
 4. Hong, T., **Setyantho, G. R.**, & Heo, Y.* (2026). SHAP-based comparisons between the street- and roof-level urban heat islands in Seoul, Republic of Korea. *Building and Environment*, 114481. [Link](https://doi.org/10.1016/j.buildenv.2026.114481)
 3. Heo, Y.*, **Setyantho, G. R.**, & Hong, T. (2025). Toward a new paradigm for urban climate modelling: Challenges and opportunities. *Journal of Building Performance Simulation*, 1–8. [Link](https://doi.org/10.1080/19401493.2025.2540925)
 2. **Setyantho, G. R.**, Yuan, C., & Heo, Y.* (2024). Evaluation of multi-layer urban canopy model (MLUCM) for urban microclimate predictions at different urban contexts. *Urban Climate*, 55, 101882. [Link](https://doi.org/10.1016/j.uclim.2024.101882)
 1. **Setyantho, G. R.**, Park, H., & Chang, S.* (2021). Multi-criteria performance assessment for semi-transparent photovoltaic windows in different climate contexts. *Sustainability*, 13(4), 2198. [Link](https://doi.org/10.3390/su13042198)
 
-### Under Review
+#### Under Review
 **Setyantho, G. R.**, Rhee, J. H., Kim, H., Li, Y., Yim, S. H. L., & Heo, Y.* Vertical wind speed variability in high-density urban areas: Spatial determinants and implications for climate-responsive urban planning. *Under Review.*
 
 ## International Conferences
