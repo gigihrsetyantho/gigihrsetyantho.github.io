@@ -12,16 +12,16 @@ redirect_from:
 For a summary of my education, research experience, publications, and professional activities, please download my 2-page resume [here](https://www.dropbox.com/scl/fi/slf56mqn66jm3zkthedtd/Resume_Gigih_20260427.pdf?rlkey=m50sjwhpfwf7od6kbgfn70niu&st=452byytf&dl=0).
 
 ## Education
-* PhD in **Civil, Environmental, and Architectural Engineering**, **Korea University (KU)**, Republic of Korea _(Expected until August 2026)_
+* PhD in **Civil, Environmental, and Architectural Engineering**, **Korea University (KU)**, Republic of Korea (Sep. 2021 - _Aug. 2026(expected)_)
   * Graduate research assistant in [Urban Environment and Energy Laboratory (UE2Lab)](https://ue2lab.korea.ac.kr/) with Supervisor: [Prof. Yeonsook Heo](https://ace.korea.ac.kr/bbs/board.php?bo_table=eng2_1&wr_id=27)
   * Visiting Ph.D. Student in [Urban Climate Design Lab (UCDL)](https://cde.nus.edu.sg/arch-ucdl/), National University of Singapore (NUS) with Supervisor: [Prof. Chao Yuan](https://cde.nus.edu.sg/arch/staffs/yuan-chao-dr/)
   * Dissertation: Development of a Hybrid Urban Wind Prediction Model to Support Climate-Sensitive Urban Planning Design
 
-* MS in **Civil and Environmental Engineering**, **Korea Advanced Institute of Science and Technology (KAIST)**, Republic of Korea (2021)
+* MS in **Civil and Environmental Engineering**, **Korea Advanced Institute of Science and Technology (KAIST)**, Republic of Korea (Mar. 2019 - Feb. 2021)
   * Graduate research assistant in Smart and Sustainable Environment Laboratory (SSEL) with Supervisor: Prof. Seongju Chang
   * Thesis: Performance Comparison of Building-Integrated Photovoltaic (BIPV) Glazing Systems Based on Heuristic Multi-Objective Optimization [Link](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=948353&se=t0&ty=B&_csrf=4be86e60-1a80-4f30-813d-2b3c45b4f999)
 
-* BEng in **Engineering Physics**, **Universitas Gadjah Mada (UGM)**, Indonesia (2017)
+* BEng in **Engineering Physics**, **Universitas Gadjah Mada (UGM)**, Indonesia (Aug. 2013 - Sep. 2017)
   * Final Project: Quantitative Biodiversity Assessment of Natural Ecosystems Based on Soundscape Indices and Bioacoustics Principles [Link](https://etd.repository.ugm.ac.id/penelitian/detail/129969)
 
  
