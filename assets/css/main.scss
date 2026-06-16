@@ -39,3 +39,44 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================
+   Gigih custom style
+   ========================== */
+
+/* Main accent color */
+a {
+  color: #2A6F97;
+}
+
+a:hover {
+  color: #1B4F72;
+}
+
+/* Top navigation */
+.greedy-nav a {
+  color: #2A6F97;
+}
+
+.greedy-nav a:hover {
+  color: #1B4F72;
+}
+
+/* Header bottom line */
+.masthead {
+  border-bottom: 2px solid #2A6F97;
+}
+
+/* Page title */
+.page__title {
+  color: #1B4F72;
+}
+
+/* Sidebar social icons */
+.author__urls a {
+  color: #2A6F97;
+}
+
+.author__urls a:hover {
+  color: #1B4F72;
+}
