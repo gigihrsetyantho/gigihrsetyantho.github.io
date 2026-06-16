@@ -657,3 +657,72 @@ a.btn,
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 }
+
+/* ==========================
+   personal custom style
+   ========================== */
+
+/* Main text */
+body {
+  color: #222222;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #111111;
+}
+
+/* Main accent color */
+a {
+  color: #2A6F97;
+}
+
+a:hover {
+  color: #1B4F72;
+}
+
+/* Top navigation */
+.greedy-nav a {
+  color: #2A6F97;
+  font-weight: 500;
+}
+
+.greedy-nav a:hover {
+  color: #1B4F72;
+}
+
+/* Header bottom line */
+.masthead {
+  border-bottom: 2px solid #2A6F97;
+}
+
+/* Page title */
+.page__title {
+  color: #1B4F72;
+}
+
+/* Sidebar social icons */
+.author__urls a {
+  color: #2A6F97;
+}
+
+.author__urls a:hover {
+  color: #1B4F72;
+}
+
+/* Content width */
+.page__content {
+  max-width: 900px;
+  line-height: 1.8;
+}
+
+/* Slightly larger text */
+.page__content p {
+  font-size: 1.05rem;
+}
+
+/* Make author name stand out */
+.author__name {
+  color: #111111;
+  font-weight: 700;
+}
