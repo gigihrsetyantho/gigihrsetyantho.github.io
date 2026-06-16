@@ -4,7 +4,11 @@ main:
      url: /cv/
 
    - title: "Research"
-     url: /research/
+     children:
+      - title: "Projects"
+        url: /research/
+      - title: "Publications"
+        url: /publications/
      
    - title: "Publications"
      url: /publications/
