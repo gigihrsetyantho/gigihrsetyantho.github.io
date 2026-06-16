@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
+layout: home
+hero_name: "Gigih R. Setyantho"
+hero_tagline: "Ph.D. student at Korea University"
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
+show_news: true
 ---
 
 Hi, my name is Gigih Rahmandhani Setyantho, or Gigih (pronouns: he/him). 
