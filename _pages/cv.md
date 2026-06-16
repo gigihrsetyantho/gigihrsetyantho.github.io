@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-For a summary of my education, research experience, publications, and professional activities, please download my 2-page resume [here](https://www.dropbox.com/scl/fi/slf56mqn66jm3zkthedtd/Resume_Gigih_20260427.pdf?rlkey=m50sjwhpfwf7od6kbgfn70niu&st=452byytf&dl=0).
-
 ## Education
 * PhD in **Civil, Environmental, and Architectural Engineering**, **Korea University (KU)**, Republic of Korea (Sep. 2021 - _Aug. 2026(expected)_)
   * Graduate research assistant in [Urban Environment and Energy Laboratory (UE2Lab)](https://ue2lab.korea.ac.kr/) with Supervisor: [Prof. Yeonsook Heo](https://ace.korea.ac.kr/bbs/board.php?bo_table=eng2_1&wr_id=27)
