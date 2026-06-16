@@ -7,7 +7,17 @@ author_profile: false
 redirect_from: 
   - /about/
   - /about.html
-show_news: false
+show_news: true
+featured_images:
+  - image: "image-alignment-580x300.jpg"
+    title: "Example 1"
+    url: ""
+  - image: "image-alignment-580x300.jpg"
+    title: "Example 2"
+    url: ""
+news:
+  - date: "2026-06"
+    text: 'Entry 1'
 ---
 
 Hi, my name is Gigih Rahmandhani Setyantho, or Gigih (pronouns: he/him). I am a final-year Ph.D. student at [Urban Energy and Environment Lab](https://ue2lab.korea.ac.kr/) in the Department of Civil, Environmental, and Architectural Engineering, Korea University ([고려대학교 건축사회환경공학과](https://ace.korea.ac.kr/index.php)). 
