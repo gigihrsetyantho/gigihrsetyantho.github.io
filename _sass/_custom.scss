@@ -728,10 +728,18 @@ a:hover {
 }
 
 .update-year {
-  font-size: 2rem;
-  font-weight: 700;
-  margin-top: 3rem;
-  margin-bottom: 1.5rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 3px solid #2A6F97;
+  font-size: 3rem;
+  font-weight: 800;
+  color: #111;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  line-height: 1;
+}
+
+.update-year::after {
+  content: "";
+  display: block;
+  width: 100%;
+  margin-top: 0.75rem;
+  border-bottom: 2px solid #d9d9d9;
 }
