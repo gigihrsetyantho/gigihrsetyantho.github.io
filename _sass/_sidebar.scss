@@ -13,6 +13,13 @@
   @include clearfix();
   margin-bottom: 1em;
 
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    height: 100vh;
+    overflow-y: auto;
+    position: fixed;
+    padding-top: $masthead-height;
+  }
+
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
@@ -24,8 +31,8 @@
     }
   }
 
-
   @include breakpoint($x-large) {
+    max-width: $sidebar-link-max-width;
     padding-right: 0;
   }
 
@@ -73,8 +80,6 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -84,11 +89,11 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 0;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 0;
+      border: none;
     }
   }
 }
@@ -109,7 +114,8 @@
 }
 
 .author__name {
-  margin: 0;
+  margin: 0 0 3px;
+  font-family: $header-font-family;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -117,16 +123,46 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: $header-font-family;
   font-size: $type-size-5;
 }
 
-.author__bio {
+.sidebar .author__desktop {
+  display: none;
+  @media screen and (min-width: 1024px) {
+    display: block;
+  }
+}
+
+.author__pronouns {
   margin: 0;
 
   @include breakpoint($large) {
     margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+.author__bio {
+  margin: 3px 0 0;
+  font-size: $type-size-6;
+  color: $gray;
+
+  @include breakpoint($large) {
+    margin-top: 3px;
     margin-bottom: 20px;
+  }
+}
+
+.author__follow-btn {
+  display: inline-block;
+  font-size: $type-size-7;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-top: 4px;
+
+  @include breakpoint($large) {
+    display: none !important;
   }
 }
 
@@ -169,7 +205,7 @@
   border-radius: $border-radius;
   background: #fff;
   z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
+  box-shadow: 0 0 10px rgba(#000, 0.1);
   cursor: default;
 
   @include breakpoint($large) {
@@ -229,9 +265,19 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+    border-bottom: none;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
+      color: $link-color-hover;
     }
+  }
+
+  .social-icons .fa,
+  .social-icons .fab,
+  .social-icons .fas,
+  .social-icons .far,
+  .social-icons .ai {
+    color: $primary-color;
   }
 }
