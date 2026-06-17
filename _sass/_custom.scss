@@ -661,6 +661,15 @@ a.btn,
 /* ==========================
    personal custom style
    ========================== */
+/* Sticky navigation bar */
+
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+  background: #ffffff;
+  border-bottom: 2px solid #2A6F97;
+}
 
 /* Main text */
 body {
