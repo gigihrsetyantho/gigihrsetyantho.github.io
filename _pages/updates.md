@@ -8,8 +8,7 @@ author_profile: true
 <div class="update-year">2026</div>
 ### Dissertation Defense (May-June)
 
-📍 Seoul, South Korea
-
+📍 Seoul, South Korea  
 Successfully defended my Ph.D. dissertation...
 
 ![Dissertation Defense](/images/image-alignment-300x200.jpg)
@@ -18,10 +17,8 @@ Successfully defended my Ph.D. dissertation...
 <div class="update-year">2025</div>
 ### Building Simulation 2025
 
-📍 Brisbane, Australia
-
+📍 Brisbane, Australia  
 Attended Building Simulation 2025 and presented...
-
 <p align="center">
   <img src="/images/image-alignment-300x200.jpg" width="300">
 </p>
