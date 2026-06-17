@@ -13,10 +13,6 @@
   @include clearfix();
   margin-bottom: 1em;
 
-  @media screen and (max-width: 1023px) {
-    padding-top: 10px;
-  }
-
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
     overflow-y: auto;
@@ -287,5 +283,15 @@
   .social-icons .far,
   .social-icons .ai {
     color: #2A6F97;
+  }
+}
+
+@media screen and (max-width: 924px) {
+  .sidebar {
+    padding-top: 90px !important;
+  }
+
+  .author__avatar {
+    padding-top: 0 !important;
   }
 }
