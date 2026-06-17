@@ -730,10 +730,9 @@ a:hover {
 /* Mobile spacing below fixed masthead */
 @media screen and (max-width: 768px) {
   body:not(.home-page) {
-    padding-top: 10rem;
+    padding-top: 6rem;
   }
-
   #main {
-    margin-top: 2em;
+    margin-top: 0.5em;
   }
 }
