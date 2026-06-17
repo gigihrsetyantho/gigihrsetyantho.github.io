@@ -726,3 +726,18 @@ a:hover {
   color: #111111;
   font-weight: 700;
 }
+
+/* Mobile spacing for archive/page layouts */
+@media screen and (max-width: 768px) {
+  body:not(.home-page) {
+    #main {
+      margin-top: 4rem;
+    }
+
+    .archive,
+    .page,
+    .page__content {
+      padding-top: 1rem;
+    }
+  }
+}
