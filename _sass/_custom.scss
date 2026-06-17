@@ -726,13 +726,3 @@ a:hover {
   color: #111111;
   font-weight: 700;
 }
-
-@media screen and (max-width: 768px) {
-  body:not(.home-page) .sidebar {
-    padding-top: 6em;
-  }
-
-  body:not(.home-page) #main {
-    margin-top: 1em;
-  }
-}
