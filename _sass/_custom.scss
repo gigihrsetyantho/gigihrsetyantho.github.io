@@ -727,10 +727,10 @@ a:hover {
   font-weight: 700;
 }
 
-/* Mobile spacing for archive/page layouts */
+/* Mobile spacing below fixed masthead */
 @media screen and (max-width: 768px) {
-  .initial-content {
-    padding-top: 6rem;
+  body:not(.home-page) {
+    padding-top: 10rem;
   }
 
   #main {
