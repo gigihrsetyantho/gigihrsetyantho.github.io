@@ -17,7 +17,7 @@
     height: 100vh;
     overflow-y: auto;
     position: fixed;
-    padding-top: $masthead-height; // keeps sidebar below fixed masthead
+    padding-top: $masthead-height + 20px; // keeps sidebar below fixed masthead
   }
 
   @include breakpoint($large) {
