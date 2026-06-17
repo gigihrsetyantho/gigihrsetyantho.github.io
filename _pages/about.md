@@ -19,7 +19,7 @@ news:
   - date: "2026-06"
     text: 'Defended my Ph.D. dissertation about hybrid (physics-AI) urban canopy model.'
   - date: "2026-05"
-    text: 'Published a paper on model calibration in Sustainable Cities and Society.'
+    text: 'Published a paper on model calibration in [Sustainable Cities and Society](https://doi.org/10.1016/j.scs.2026.107404).'
   - date: "2025-08"
     text: 'Attended Building Simulation 2025 in Brisbane and the Tsinghua–UNSW Workshop in Sydney.'
   - date: "2025-08"
