@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 For a complete list of update publications and citation records, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=r0eIJnsAAAAJ&hl=en) or [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57204633675).
 
 ## SCIE-indexed Journal Articles
