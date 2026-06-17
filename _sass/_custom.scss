@@ -727,4 +727,12 @@ a:hover {
   font-weight: 700;
 }
 
+@media screen and (max-width: 768px) {
+  body:not(.home-page) .sidebar {
+    margin-top: 5.5rem;
+  }
 
+  body:not(.home-page) #main {
+    margin-top: 1rem;
+  }
+}
