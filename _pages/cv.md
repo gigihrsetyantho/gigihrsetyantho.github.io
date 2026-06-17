@@ -16,7 +16,7 @@ Ph.D. in **Civil, Environmental, and Architectural Engineering**, **Korea Univer
  * Dissertation: Development of a hybrid urban canopy model for wind speed prediction under actual urban contexts.
 
 M.S. in **Civil and Environmental Engineering**, **Korea Advanced Institute of Science and Technology (KAIST)**, Republic of Korea (Mar. 2019 - Feb. 2021)
- * Graduate research assistant in Smart and Sustainable Environment Laboratory (SSEL), supervised by [Prof. Seongju Chang](https://cee.kaist.ac.kr/boards/view/people_en/77/sc_category/3).
+ * Graduate research assistant in Smart and Sustainable Environment Laboratory (SSEL), supervised by [Seongju Chang, Ph.D.](https://cee.kaist.ac.kr/boards/view/people_en/77/sc_category/3).
  * Thesis: [Performance Comparison of Building-Integrated Photovoltaic (BIPV) Glazing Systems Based on Heuristic Multi-Objective Optimization](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=948353&se=t0&ty=B&_csrf=4be86e60-1a80-4f30-813d-2b3c45b4f999).
 
 B.Eng. in **Engineering Physics**, **Universitas Gadjah Mada (UGM)**, Indonesia (Aug. 2013 - Sep. 2017)
