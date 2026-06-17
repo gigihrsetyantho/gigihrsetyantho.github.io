@@ -15,6 +15,7 @@ Successfully defended my Ph.D. dissertation...
 ![Dissertation Defense](/images/image-alignment-300x200.jpg)
 
 ---
+---
 ## 2025
 ### Building Simulation 2025
 
