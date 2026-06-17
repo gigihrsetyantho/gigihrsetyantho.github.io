@@ -91,13 +91,11 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
-    padding: 5px;
-    border: 1px solid $border-color;
+    border-radius: 0;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 0;
+      border: none;
     }
   }
 }
@@ -131,7 +129,6 @@
 .sidebar .author__name {
   font-family: $header-font-family;
   font-size: $type-size-5;
-  font-weight: 700;
 }
 
 .sidebar .author__desktop {
