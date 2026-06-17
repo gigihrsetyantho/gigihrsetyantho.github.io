@@ -729,15 +729,11 @@ a:hover {
 
 /* Mobile spacing for archive/page layouts */
 @media screen and (max-width: 768px) {
-  body:not(.home-page) {
-    #main {
-      margin-top: 4rem;
-    }
+  .initial-content {
+    padding-top: 6rem;
+  }
 
-    .archive,
-    .page,
-    .page__content {
-      padding-top: 1rem;
-    }
+  #main {
+    margin-top: 0;
   }
 }
