@@ -5,7 +5,7 @@ permalink: /updates/
 author_profile: true
 ---
 
-## 2026
+<div class="update-year">2026</div>
 ### Dissertation Defense (May-June)
 
 📍 Seoul, South Korea
@@ -15,8 +15,7 @@ Successfully defended my Ph.D. dissertation...
 ![Dissertation Defense](/images/image-alignment-300x200.jpg)
 
 ---
----
-## 2025
+<div class="update-year">2025</div>
 ### Building Simulation 2025
 
 📍 Brisbane, Australia
