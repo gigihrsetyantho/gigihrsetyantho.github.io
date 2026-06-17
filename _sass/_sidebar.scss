@@ -14,14 +14,14 @@
   margin-bottom: 1em;
 
   @media screen and (max-width: 1023px) {
-    padding-top: 100px;
+    padding-top: 40px;
   }
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
     overflow-y: auto;
     position: fixed;
-    padding-top: $masthead-height + 40px; // keeps sidebar below fixed masthead
+    padding-top: $masthead-height; // keeps sidebar below fixed masthead
   }
 
   @include breakpoint($large) {
