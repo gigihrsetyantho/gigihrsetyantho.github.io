@@ -20,6 +20,7 @@ For a complete list of updated publications and citation records, please visit m
 
 <!-- #### Under Review -->
 <!-- **Setyantho, G. R.**, Rhee, J. H., Kim, H., Li, Y., Yim, S. H. L., & Heo, Y.* Vertical wind speed variability in high-density urban areas: Spatial determinants and implications for climate-responsive urban planning. *Under Review.* -->
+---
 
 ## International Conferences
 4. **Setyantho, G. R.**, & Heo, Y. (2025). [*Reducing the gap between predicted and measured urban microclimate through handling parameter uncertainty and model-form uncertainties*](https://doi.org/10.26868/25222708.2025.1459). **Building Simulation 2025 (BS2025)**, Brisbane, Australia. *(Oral Presentation)* 
