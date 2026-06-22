@@ -7,10 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-## Research overview
+## Research interests
+My research focuses on urban climate and building performance modeling through physics-based simulation and data-driven approaches. I am particularly interested in understanding interactions between urban form, climate, wind environments, and energy systems, and in developing robust and interpretable modeling frameworks that support climate-responsive urban planning and sustainable built environments.
 
-My research focuses on understanding and predicting interactions between urban environments, climate, and energy systems. Through a combination of physics-based simulation, urban environmental modeling, and data-driven approaches, I aim to develop practical tools that support climate-sensitive urban planning and sustainable city development. My work spans urban climate modeling, urban wind environment analysis, building energy performance, and physics–AI hybrid modeling, with applications in climate adaptation, urban resilience, and evidence-based decision-making for cities.
-
+**Research topics**: urban microclimate, urban wind environment, urban heat island, building energy performance, and uncertainty analysis.  
+**Research approaches**: urban canopy modeling, building energy modeling, machine learning, explainable AI, and urban data analytics.
+ 
+---
 
 ## Physics–AI Hybrid Modeling
 
@@ -20,26 +23,18 @@ A major focus of my current work is the development of physics–AI hybrid frame
 
 * Closing prediction gaps in urban canopy models through handling parameter and model-form uncertainties (*Sustainable Cities and Society*, 2026)
 
-  
+---
+
 ## Urban Climate Modeling
 
-Urban climate models play an important role in understanding the interactions between urban form, atmospheric processes, and human activities. My research evaluates and improves urban canopy models for predicting urban microclimate conditions across different urban contexts. This work contributes to more reliable assessments of urban heat, ventilation, and climate-sensitive urban design strategies.
+Urban climate models play an important role in understanding the interactions between urban form, atmospheric processes, and human activities. My research evaluates and improves urban canopy models for predicting urban microclimate conditions across different urban contexts. This work contributes to more reliable assessments of urban heat, ventilation, and climate-sensitive urban design strategies. Urban wind conditions strongly influence pedestrian comfort, pollutant dispersion, and urban climate resilience. My doctoral research focuses on developing advanced approaches for predicting urban wind environments in high-density cities. Particular emphasis is placed on understanding the effects of urban heterogeneity and spatial variability on wind behavior and translating these insights into climate-responsive urban planning strategies. Ongoing works 
 
 **Related publications**
 
 * Evaluation of multi-layer urban canopy model (MLUCM) for urban microclimate predictions at different urban contexts (*Urban Climate*, 2024)
 * Toward a new paradigm for urban climate modelling: Challenges and opportunities (*Journal of Building Performance Simulation*, 2025)
 
-
-## Urban Wind Environment
-
-Urban wind conditions strongly influence pedestrian comfort, pollutant dispersion, and urban climate resilience. My doctoral research focuses on developing advanced approaches for predicting urban wind environments in high-density cities. Particular emphasis is placed on understanding the effects of urban heterogeneity and spatial variability on wind behavior and translating these insights into climate-responsive urban planning strategies.
-
-**Related publications**
-
-* Vertical wind speed variability in high-density urban areas: Spatial determinants and implications for climate-responsive urban planning (*Under Review*)
-* Development of a wind speed spatial interpolator for urban wind map (*KIAEBS Conference*, 2023)
-
+---
 
 ## Building Energy Performance
 
