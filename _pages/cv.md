@@ -9,13 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Research interests
-My research focuses on urban climate and building performance modeling through physics-based simulation and data-driven approaches. I am particularly interested in understanding interactions between urban form, climate, wind environments, and energy systems, and in developing robust and interpretable modeling frameworks that support climate-responsive urban planning and sustainable built environments.
-
-**Research topics**: urban microclimate, urban wind environment, urban heat island, building energy performance, and uncertainty analysis.  
-**Research approaches**: urban canopy modeling, building energy modeling, machine learning, explainable AI, and urban data analytics.
-
----
 
 ## Education
 (Sep. 2021 - Aug. 2026(_*expected_)) **Ph.D.** in **Civil, Environmental, and Architectural Engineering**, **Korea University (KU)**, Republic of Korea  
