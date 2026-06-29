@@ -9,7 +9,7 @@ author_profile: true
 ### Dissertation defense
 
 📍 Seoul, South Korea  
-Successfully defended my Ph.D. dissertation on hybrid physics-AI urban canopy model. I am grateful to my dissertation committee for their valuable feedback and insightful discussions: [Prof. Yeonsook Heo](https://ace.korea.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=27), [Prof. Kwang Ho] Lee(https://archi.korea.ac.kr/about/faculty_view.html?no=9) (Architecture, Korea University), [Prof. Jee Heon Lee](https://www.gachon.ac.kr/archi/6058/subview.do) (Architecture, Gachon University), [Prof. Steve H.L. Yim](https://dr.ntu.edu.sg/entities/person/Steve-Yim) (Asian School of Environment, Nanyang Technological University), [Prof. Chao Yuan](https://cde.nus.edu.sg/arch/staffs/yuan-chao-dr/) (Architecure, National University of Singapore). Thank you all!
+Successfully defended my Ph.D. dissertation on hybrid physics-AI urban canopy model. I am grateful to my dissertation committee for their valuable feedback and insightful discussions: [Prof. Yeonsook Heo](https://ace.korea.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=27), [Prof. Kwang Ho Lee](https://archi.korea.ac.kr/about/faculty_view.html?no=9) (Architecture, Korea University), [Prof. Jee Heon Lee](https://www.gachon.ac.kr/archi/6058/subview.do) (Architecture, Gachon University), [Prof. Steve H.L. Yim](https://dr.ntu.edu.sg/entities/person/Steve-Yim) (Asian School of Environment, Nanyang Technological University), [Prof. Chao Yuan](https://cde.nus.edu.sg/arch/staffs/yuan-chao-dr/) (Architecure, National University of Singapore). Thank you all!
 <p align="center">
   <img src="/images/image-alignment-300x200.jpg" width="300">
 </p>
