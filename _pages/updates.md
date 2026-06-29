@@ -24,6 +24,7 @@ Presented my research on model calibration in urban canopy models at **BS2025** 
   <img src="/images/image-alignment-300x200.jpg" width="300">
 </p>
 
+---
 ### Visit to UCDL-NUS
 
 📍 Singapore    
@@ -41,4 +42,4 @@ Presented my research on evaluating urban canopy models across different urban c
 <p align="center">
   <img src="/images/image-alignment-300x200.jpg" width="300">
 </p>
-
+---
