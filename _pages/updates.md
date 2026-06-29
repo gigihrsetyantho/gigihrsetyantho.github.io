@@ -32,6 +32,7 @@ Spent a month as a visiting Ph.D. student at the Urban Climate Design Laboratory
   <img src="/images/image-alignment-300x200.jpg" width="300">
 </p>
 
+---
 <div class="update-year">2023</div>
 ### 11th International Conference on Urban Climate (ICUC11)
 
